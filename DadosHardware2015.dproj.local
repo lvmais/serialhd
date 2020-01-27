@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/11/04 16:01:51.593.pas,C:\Users\PauloValeAssessoriaE\Documents\RAD Studio\Projects\Unit1.pas=D:\Programação\SerialHD\SerialHD2015\uDadosHardware.pas</Transaction>
+    <Transaction>2014/11/04 16:01:51.593.dfm,C:\Users\PauloValeAssessoriaE\Documents\RAD Studio\Projects\Unit1.dfm=D:\Programação\SerialHD\SerialHD2015\uDadosHardware.dfm</Transaction>
+    <Transaction>2014/11/04 16:13:29.616.dproj,C:\Users\PauloValeAssessoriaE\Documents\RAD Studio\Projects\Project2.dproj=D:\Programação\SerialHD\SerialHD2015\DadosHardware2015.dproj</Transaction>
+    <Transaction>2014/11/04 21:12:28.767.ico,D:\Documentos\www.lvsoft.com.br\Logos\LVSoft Icones\LVSoft II.ico=</Transaction>
+  </Transactions>
+</BorlandProject>
